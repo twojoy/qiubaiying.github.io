@@ -1,5 +1,5 @@
 # Site settings
-title:  PanBlog
+title: TwoJoy 
 SEOTitle: 潘俊的博客
 header-img: img/post-bg-desk.jpg
 email: twopan@outlook.com
@@ -12,9 +12,7 @@ github_repo: "https://github.com/twojoy/twojoy.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "醉后不知天在水,满船清梦压星河."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
